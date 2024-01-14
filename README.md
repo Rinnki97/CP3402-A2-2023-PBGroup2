@@ -7,11 +7,13 @@ This project goal is to make a theme and website for JCU Open House. By making t
 Link to the website: https://yulinc.sgedu.site/a2/ \
 There are 3 pages on this website, the home page, about us page and contact us page. The home page has the main information about the open house so it has schedule table, details about admission question day, and registering. The about us page is a page about the JCU and why you would want to pick JCU. The contact us page has a form that users can fill in to ask their questions and hear from JCU soon. There are also contacts of JCU in that page. 
 
-Home page
-<img src="images\home page.gif" width=400> \
-About us page
+Home page \
+<img src="images\home page.gif" width=400> 
+
+About us page \
 <img src="images\about us page.png" width=400> 
-Contact us page
+
+Contact us page\
 <img src="images\contact us page.png" width=400> 
 
 ## Website Features

@@ -4,16 +4,16 @@
 This project goal is to make a theme and website for JCU Open House. By making this website, we wish to increase the number of attendees to the open house by 10% and by the end of open house project, increase the number of applicants by 5%. The time for the whole project to be done is between 8 and 14 January 2024. 
 
 ## Communication
-For communications we used WeChat and WhatsApp. Sometimes we meet up so that we can directly work on it and if there is any problems we can directly deal with it together, like shown in the image below.
-<img src="images/communication screenshot.png" height=200>
+For communications we used WeChat and WhatsApp. Sometimes we meet up so that we can directly work on it and if there is any problems we can directly deal with it together, like shown in the image below.\
+<img src="images/communication screenshot.png" width=400>
 
 ## Project Management
-For project management, we used Trello board as it helps keep track of the small tasks we have to reach the goal of the project. A screenshot of our Trello board is below:
-<img src="images/trello board screenshot.png" width=200>
+For project management, we used Trello board as it helps keep track of the small tasks we have to reach the goal of the project. A screenshot of our Trello board is below: \
+<img src="images/trello board screenshot.png" width=400>
 
 ## Deployment Tools
-For local deployment, we used XAMPP and VVV. We used XAMPP becuase not only it is open sourced but it is easy to use as we only need to start the Apache and MySQL that comes with it. The Apache for the website and MySQL for the database. A screenshot of the XAMPP control panel is shown below. As shown, it is easy to start and stop the Apache and MySQL needed for local deployment.
-<img src=images/XAMPP control panel.png" width=200>
+For local deployment, we used XAMPP and VVV. We used XAMPP becuase not only it is open sourced but it is easy to use as we only need to start the Apache and MySQL that comes with it. The Apache for the website and MySQL for the database. A screenshot of the XAMPP control panel is shown below. As shown, it is easy to start and stop the Apache and MySQL needed for local deployment. \
+<img src="images/XAMPP control panel.png" width=200>
 
 We also used VVV which is similar to XAMPP as it can do local deployment however VVV is configured for developers who are developing a theme for WordPress. Since our project is to make a theme and we are also using WordPress, we used VVV. However, unlike XAMPP, VVV do not have a easy to look and click. To run VVV, we need to open either terminal or git bash to run VVV, like shown in the picture below.
 ![running VVV](<images/running VVV.png>)

@@ -13,7 +13,7 @@ For project management, we used Trello board as it helps keep track of the small
 
 ## Deployment Tools
 For local deployment, we used XAMPP and VVV. We used XAMPP becuase not only it is open sourced but it is easy to use as we only need to start the Apache and MySQL that comes with it. The Apache for the website and MySQL for the database. A screenshot of the XAMPP control panel is shown below. As shown, it is easy to start and stop the Apache and MySQL needed for local deployment. 
-<img src="images/XAMPP control panel.png">
+<img src="images/XAMPP control panel.png" width=550>
 
 We also used VVV which is similar to XAMPP as it can do local deployment however VVV is configured for developers who are developing a theme for WordPress. Since our project is to make a theme and we are also using WordPress, we used VVV. However, unlike XAMPP, VVV do not have a easy to look and click. To run VVV, we need to open either terminal or git bash to run VVV, like shown in the picture below.
 ![running VVV](<images/running VVV.png>)

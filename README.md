@@ -21,7 +21,7 @@ Contact us page\
 ![Animation and integrated menu](<images/feature.gif>)
 
 **Simple contents / not to many pages**
-![Simple contents](<images/home page.png>)
+![Simple contents](<images/second feature.png>)
 
 ## Communication
 For communications we used WeChat and WhatsApp. Sometimes we meet up so that we can directly work on it and if there is any problems we can directly deal with it together, like shown in the image below.\

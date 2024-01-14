@@ -4,11 +4,18 @@
 This project goal is to make a theme and website for JCU Open House. By making this website, we wish to increase the number of attendees to the open house by 10% and by the end of open house project, increase the number of applicants by 5%. The time for the whole project to be done is between 8 and 14 January 2024. 
 
 ## End result
-Link to the website: https://yulinc.sgedu.site/a2/ 
+Link to the website: https://yulinc.sgedu.site/a2/ \
+There are 3 pages on this website, the home page, about us page and contact us page. The home page has the main information about the open house so it has schedule table, details about admission question day, and registering. The about us page is a page about the JCU and why you would want to pick JCU. The contact us page has a form that users can fill in to ask their questions and hear from JCU soon. There are also contacts of JCU in that page. \
+<img src="images\home page.gif" width=200>
+<img src="images\about us page.png" width=200>
+<img src="images\contact us page.png" width=200>
 
 ## Website Features
-**Integrated menu**
-![Integrated menu](<images/integrated menu.gif>)
+**Animations and integrated menu**
+![Animation and integrated menu](<images/feature.gif>)
+
+**Simple contents / not to many pages**
+![Simple contents](<images/home page.png>)
 
 ## Communication
 For communications we used WeChat and WhatsApp. Sometimes we meet up so that we can directly work on it and if there is any problems we can directly deal with it together, like shown in the image below.\

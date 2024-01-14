@@ -8,7 +8,9 @@ Link to the website: https://yulinc.sgedu.site/a2/
 
 ## Website Features
 **Integrated menu**
-images\integrated_menu.mp4
+https://github.com/Rinnki97/CP3402-A2-2023-PBGroup2/assets/100910791/f3a21151-e5b9-423b-9b6d-3622796163fa
+
+
 
 ## Communication
 For communications we used WeChat and WhatsApp. Sometimes we meet up so that we can directly work on it and if there is any problems we can directly deal with it together, like shown in the image below.\
